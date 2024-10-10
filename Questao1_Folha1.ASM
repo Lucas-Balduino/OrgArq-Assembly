@@ -1,5 +1,0 @@
-	MOV	AL,FA
-	MOV	BL,FB
-	MOV	CL,FC
-	MOV	DL,FD
-	END	
