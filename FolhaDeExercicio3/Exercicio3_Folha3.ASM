@@ -1,0 +1,9 @@
+	MOV	DL,2
+HERE:	MOV	AL,05
+	MOV	[60],AL
+	ADD	AL,DL
+	JMP	HERE
+	
+	
+	
+	END
